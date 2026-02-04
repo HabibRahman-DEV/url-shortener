@@ -10,5 +10,4 @@ public class UrlWriteServiceApplication {
 		SpringApplication.run(UrlWriteServiceApplication.class, args);
 		System.out.println("Hello");
 	}
-
 }
