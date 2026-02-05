@@ -1,4 +1,4 @@
-package url.shortener.url_write_service;
+package url.shortener.url_write_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
